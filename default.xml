@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <default sync-j="4" revision="fido"/>
+  <remote fetch="https://github.com/liquidctl" name="liquidctl"/>
+  <project remote="liquidctl" revision="v1.6.1" name="liquidctl" path="aio-dos-macro/liquidctl"/>
+</manifest>
