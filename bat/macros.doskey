@@ -1,0 +1,5 @@
+ip=ipconfig $*
+ls=dir /B $1
+pmax=liquidctl --match kraken set pump speed 100
+pmin=liquidctl --match kraken set pump speed 40
+pump=liquidctl --match kraken set pump speed $*
