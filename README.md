@@ -15,10 +15,10 @@ Uses the liquidctl library and Doskey  for a cool pump controlling Kraken pump m
 
 ### Current Functions
 
--`pmax`  : Sets the NZXT pump to run at `100%`
--`pmin`  : Sets the NZXT pump to run at `40%`
--`pump XX` : Sets the NZXT pump to run at `XX%` where the max is 100.
--`ip` : Shortcut for ipconfig.
--`ls` : Calls `dir` but makes it almost work like `ls`.
+*`pmax`  : Sets the NZXT pump to run at `100%`
+*`pmin`  : Sets the NZXT pump to run at `40%`
+*`pump XX` : Sets the NZXT pump to run at `XX%` where the max is 100.
+*`ip` : Shortcut for ipconfig.
+*`ls` : Calls `dir` but makes it almost work like `ls`.
 
 
