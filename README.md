@@ -6,6 +6,7 @@ Uses the liquidctl library and Doskey  for a cool pump controlling Kraken pump m
 
 
 ## 1. Make sure liquidctl is available on path and working.
+ https://github.com/orionnelson/liquidctl
  `path`
  Shows the location of the liquidctl
 ## 2. Add An Autorun for the Current user to set the doskey to run on startup.
