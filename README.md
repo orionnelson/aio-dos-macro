@@ -3,7 +3,7 @@ Uses the liquidctl library and Doskey  for a cool pump controlling Kraken pump m
 
 
 ### Install Instructions
-
+##  Install OpenRGB and Configure your Profile
 
 ## 1. Make sure liquidctl is available on path and working.
  https://github.com/orionnelson/liquidctl
