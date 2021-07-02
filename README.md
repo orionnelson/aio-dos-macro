@@ -3,7 +3,8 @@ Uses the liquidctl library and Doskey  for a cool pump controlling Kraken pump m
 
 
 ### Install Instructions
-##  Install OpenRGB and Configure your Profile
+
+##  Install SignalRGB and Configure your Profile with your setup.
 
 ## 1. Make sure liquidctl is available on path and working.
  https://github.com/orionnelson/liquidctl
@@ -21,7 +22,7 @@ Uses the liquidctl library and Doskey  for a cool pump controlling Kraken pump m
 * `pump XX` : Sets the NZXT pump to run at `XX%` where the max is 100.
 * `ip` : Shortcut for ipconfig.
 * `ls` : Calls `dir` but makes it almost work like `ls`.
-* `loff` : Turns the pump light off.
-* `lon` : Turns the pump light on default is rainbow.
+* `loff` : Turns the pump light off and stops signalRGB.
+* `lon` : Turns the pump light on and starts up signalRGB
 
 
